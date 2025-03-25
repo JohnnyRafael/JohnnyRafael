@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Johnny!
 
-🎓 **Data Science Master’s Student | AI Explorer | Visual Thinker**  
+🎓 **Data Science Master’s Student | AI Explorer | Visual Thinker | Co-Founder of iKemo.io **  
 🔍 On a mission to turn complex data into clear, compelling insights.  
 🤖 Passionate about blending **machine learning, automation**, and **storytelling** to drive smarter decisions.
 
