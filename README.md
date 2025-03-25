@@ -21,7 +21,7 @@
 | Project | What It Does | AI Touch |
 |--------|---------------|----------|
 | **AI Dashboard Buddy** | Natural language Q&A for dashboards | Uses GenAI + LangChain |
-| **Prompt Crafter** | PCraft Perfect AI Prompts | LLM + Some Training |
+| **Prompt Crafter** | Prompt Craft Perfect AI Prompts | LLM + Some Training |
 | **Insight Generator** | Turns raw CSVs into auto-summarized insights | GPT-based text analysis |
 
 > 💡 See what i built → [Prompt Craft](https://promptcraft.net/)
