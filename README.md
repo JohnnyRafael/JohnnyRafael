@@ -11,7 +11,7 @@
 🎓 Currently: Master’s in Data Science | Focus on AI, Analytics, and Visualization
 🤖 Interests: Generative AI, Predictive Modeling, and Human-Centered Dashboards
 🛠️ Tools I use: Python, SQL, scikit-learn, Power BI, LangChain, Streamlit
-🔄 Belief: “Data should not just inform—it should *engage* and *predict*. ”
+🔄 Belief: Data should not just inform—it should engage and predict
 ```
 
 ---
