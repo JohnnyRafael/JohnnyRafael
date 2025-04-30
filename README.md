@@ -52,4 +52,3 @@ mantra: “If you didn’t laugh at your own chart, and works from first trial .
 
 <!-- Joke of the Day -->
 ![Joke Card](https://readme-jokes.vercel.app/api)
-
