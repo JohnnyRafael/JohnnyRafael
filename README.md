@@ -1,49 +1,49 @@
-## 👋 Hey, I’m Johnny!
+## 👋 Yo, I’m Johnny!
 
 🎓 **Data Science Master’s Student | AI Explorer | Visual Thinker | Co-Founder of iKemo.io**  
-🔍 On a mission to turn complex data into clear, compelling insights.  
-🤖 Passionate about blending **machine learning, automation**, and **storytelling** to drive smarter decisions.
+🔍 Turning chaotic spreadsheets into “Aha!” moments (and occasionally into memes).  
+🤖 Automating the boring stuff so I can binge-watch comedy/action without guilt.
 
 ---
 
-### ⚡ About Me
+### ⚡ A Quick Intro
 ```yaml
-🎓 Currently: Master’s in Data Science | Focus on AI, Analytics, and Visualization
-🤖 Interests: Generative AI, Predictive Modeling, and Human-Centered Dashboards
-🛠️ Tools I use: Python, SQL, scikit-learn, Power BI, LangChain, Streamlit
-🔄 Belief: Data should not just inform—it should engage and predict
+currently: 🧙‍♂️ Master’s in Data Science—casting AI spells daily  
+obsession: 🎲 Generative AI, predictive wizardry & dashboards that don’t bore you  
+current jam: 🎶 Synthwave beats fuel my code  
+mantra: “If you didn’t laugh at your own chart, and works from first trial .. you’re doing it wrong.”
 ```
 
 ---
 
-### 🚧 Projects in Progress
+### 🚀 Projects I’ve Built
 
-| Project | What It Does | AI Touch |
-|--------|---------------|----------|
-| **AI Dashboard Buddy** | Natural language Q&A for dashboards | Uses GenAI + LangChain |
-| **Prompt Crafter** | Prompt Craft Perfect AI Prompts | LLM + Some Training |
-| **Insight Generator** | Turns raw CSVs into auto-summarized insights | GPT-based text analysis |
+| Project         | What It Actually Does                                          | Secret Sauce                           |
+|-----------------|----------------------------------------------------------------|----------------------------------------|
+| **Prompt Craft**| 🛠️ Guides you to concoct AI prompts so perfect they high-five back | Fine-Tuning, TypeScript, unicorn tears 🦄    |
 
-> 💡 See what i built → [Prompt Craft](https://promptcraft.net/)
+> 👉 Dive in and tell your friends: [Prompt Craft](https://promptcraft.net/)  
+
+*(Stay tuned—more creations coming when I emerge from my data cave.)*
 
 ---
 
 ### 🧠 What I’m Learning & Exploring
 
-- 🔍 **LLMs in Data Science** — Embedding GPTs into analysis workflows  
-- 📈 **Forecasting & Time Series** — From ARIMA to Facebook Prophet  
-- 🧬 **Explainable AI** — Because insights need trust  
-- 🛠 **Streamlining Analytics** — Building tools that reduce time-to-insight
+- 🔮 **LLMs in Data Science** — Teaching GPTs to think like analysts  
+- 📈 **Forecasting & Time Series** — From “Oops” to “On point” with R. & Python
+- 🧬 **Explainable AI** — Because “black box” sounds too spooky  
+- 🛠 **Analytics Automation** — Building bots that beg for coffee breaks
 
 ---
 
-### 🔗 Let’s Connect!
+### 🔗 Let’s Geek Out Together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/johnnyrafael/)  
-📢 Open to collaborations, AI chats, and data storytelling ideas: John@iKemo.io
+📬 Shoot ideas, memes, or urgent data SOS to: **John@iKemo.io**
 
 ---
 
 ### 💬 Fun Fact  
-*A well-designed chart can say what a thousand rows never could.*
+> *Charts are like jokes—if you have to explain them, they’re not that good.*  
 
