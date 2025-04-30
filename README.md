@@ -47,3 +47,9 @@ mantra: “If you didn’t laugh at your own chart, and works from first trial .
 ### 💬 Fun Fact  
 > *Charts are like jokes—if you have to explain them, they’re not that good.*  
 
+
+---
+
+<!-- Joke of the Day -->
+![Joke Card](https://readme-jokes.vercel.app/api)
+
