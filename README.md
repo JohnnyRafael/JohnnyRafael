@@ -20,9 +20,9 @@ mantra: “If you didn’t laugh at your own chart, and works from first trial .
 
 | Project         | What It Actually Does                                          | Secret Sauce                           |
 |-----------------|----------------------------------------------------------------|----------------------------------------|
-| **Prompt Craft**| 🛠️ Guides you to concoct AI prompts so perfect they high-five back | Fine-Tuning, TypeScript, unicorn tears 🦄    |
-
-> 👉 Dive in and tell your friends: [Prompt Craft](https://promptcraft.net/)  
+| **[Prompt Craft](https://promptcraft.net/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)**| 🛠️ Guides you to concoct AI prompts so perfect they high-five back | Fine-Tuning, TypeScript, unicorn tears 🦄 |
+| **[Marseil](https://marseil.ai/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)**| 🤖 Documentation-powered assistant to catch every missing semicolon | LangChain, Python, stardust sprinkles ✨ |
+| **[The Ultimate Rejection Machine](https://noreason.me/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)**| 🚫 Auto-generates polite, playful rejections at the push of a button | No-as-a-service, confetti clouds 🎊 |
 
 *(Stay tuned—more creations coming when I emerge from my data cave.)*
 
