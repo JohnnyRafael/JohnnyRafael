@@ -21,6 +21,7 @@ mantra: “If you didn’t laugh at your own chart, and works from first trial .
 | Project         | What It Actually Does                                          | Secret Sauce                           |
 |-----------------|----------------------------------------------------------------|----------------------------------------|
 | **[The Markdown Editor](https://github.com/iKemo-io/the-markdown-editor)**| 🛠️ A Modern, Real-Time Markdown Editor for the Web (open-source)| Monaci Editor, Marked.js,DOMPurify |
+| **[Auto-pilot Chatting Agents](https://github.com/iKemo-io/chatting-agent)**| Streamlit application that allows two local Ollama models to chat with each other. (open-source)| Python, Streamlit |
 | **[Prompt Craft](https://promptcraft.net/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)**| 🛠️ Guides you to concoct AI prompts so perfect they high-five back | Fine-Tuning, TypeScript, unicorn tears 🦄 |
 | **[Marseil](https://marseil.ai/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)**| 🤖 Documentation-powered assistant to catch every missing semicolon | LangChain, Python, stardust sprinkles ✨ |
 | **[The Ultimate Rejection Machine](https://noreason.me/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)**| 🚫 Auto-generates polite, playful rejections at the push of a button | No-as-a-service, confetti clouds 🎊 |
