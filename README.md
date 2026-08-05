@@ -1,8 +1,8 @@
 ## 👋 Yo, I'm Johnny!
 
-🎓 **Data Science Master's Student | AI Explorer | Visual Thinker**
-🏢 **Co-Founder of [iKemo.io](https://ikemo.io) — a BI & AI agency helping mid-size companies turn their data into decisions.**
-🤖 Automating the boring stuff so I can binge-watch comedy/action without guilt.
+Solo founder building **[Marseil](https://marseil.ai)** — an AI agent that reads your team's docs and answers the questions they ask 47 times.
+
+Data science background, AI agent obsession, and a firm belief that nobody should answer the same question twice.
 
 ---
 
@@ -20,11 +20,8 @@ mantra: "If you didn't laugh at your own chart, and works from first trial .. yo
 
 | Project | What It Actually Does | Stack |
 |---|---|---|
-| **[The Markdown Editor](https://github.com/iKemo-io/the-markdown-editor)** | 🛠️ A Modern, Real-Time Markdown Editor for the Web (open-source) | Monaco Editor, Marked.js, DOMPurify |
-| **[Auto-pilot Chatting Agents](https://github.com/iKemo-io/chatting-agent)** | Two local Ollama models chat with each other autonomously (open-source) | Python, Streamlit, Ollama |
+| **[Marseil](https://marseil.ai/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)** | 🤖 AI knowledge agent trained on your team's docs. Answers the repeat questions with sources, says "I don't know" when it's not there | Next.js, TypeScript, tRPC, Pinecone |
 | **[Prompt Craft](https://promptcraft.net/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)** | 🛠️ Guides you to write AI prompts that actually work | Fine-tuned model, TypeScript |
-| **[Marseil](https://marseil.ai/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)** | 🤖 Documentation-powered assistant that catches what you miss | LangChain, Python |
-| **[The Ultimate Rejection Machine](https://noreason.me/?utm_source=github&utm_medium=referral&utm_campaign=site_link/)** | 🚫 Auto-generates polite, playful rejections at the push of a button | JavaScript, self-hosted |
 
 *(Stay tuned—more creations coming when I emerge from my data cave.)*
 
@@ -32,8 +29,7 @@ mantra: "If you didn't laugh at your own chart, and works from first trial .. yo
 
 ### 🔗 Let's Geek Out Together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/johnnyrafael/)
-📬 Shoot ideas, memes, or urgent data SOS to: **John@iKemo.io**
+📬 Shoot ideas, memes, or urgent data SOS to: **Johnny@marseil.ai**
 
 ---
 
